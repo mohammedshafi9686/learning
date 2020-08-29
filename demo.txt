@@ -2,3 +2,6 @@
 2. git add .
 3. git status
 4. git commit -m "Message regarding the changes"
+5. git fetch - it shows all the branches in the git repository
+5. git checkout safi_develop
+6. git branch : it shows the selected branch
