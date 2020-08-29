@@ -1,4 +1,4 @@
 1. This is my first course
 2. git add .
 3. git status
-4. 
+4. git commit -m "Message regarding the changes"
